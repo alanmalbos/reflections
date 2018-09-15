@@ -1,0 +1,10 @@
+P7 - De que modo o controle de versão pode dar a você mais
+segurança para fazer alterações que podem danificar algo?
+
+R: Pois qualquer problema pode ser solucionado retornando a uma
+versão anterior e entendendo o que aconteceu.
+
+P8 - Agora que você já configurou a sua área de trabalho, você
+quer usar o Git para quê?
+
+R: Manter atualizado meus projetos e versionar todo o meu código, evitando problemas e garantindo qualidade de código.
