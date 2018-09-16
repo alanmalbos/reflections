@@ -1,0 +1,12 @@
+P1 - O que acontece ao iniciar um repositório?
+Por que você precisa fazer isso?
+
+R: Criasse um novo diretório oculto .git que armazena todos os metadados de histórico. É preciso fazer isso para poder realizar commits e o controle de versão.
+
+P2 - Em que se difere a área de preparação do diretório de
+trabalho e do repositório? Qual valor você acha que ela
+oferece?
+
+R: Ela permite preparar anteriormente os arquivos e
+modificações que farão parte do commit, permitindo dividir as
+alterações de forma lógica.
