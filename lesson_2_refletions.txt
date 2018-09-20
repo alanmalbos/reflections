@@ -10,3 +10,36 @@ oferece?
 R: Ela permite preparar anteriormente os arquivos e
 modificações que farão parte do commit, permitindo dividir as
 alterações de forma lógica.
+
+P3 - Como você pode usar a área de preparação para garantir que
+tenha um commit por alteração lógica?
+
+R: Podemos enviar para a área de preparação apenas o que foi
+modificado e que tenha relação com uma alteração lógica, sendo
+assim, mesmo que mais de um arquivo tenha sido modificado,
+apenas os que são relevantes para a mudança serão enviados pelo
+commit.
+
+P4 - Quais são algumas das situações em que branches seriam
+úteis para manter seu histórico organizado? Como braches
+ajudariam?
+
+R: Ao criar alterações em um sistema que poderiam prejudicar o seu funcionamento caso fossem realizadas diretamente no branch master.
+
+P5 - Como os diagramas ajudam a visualizar a estrutura de branches?
+
+R: Eles permitem visualizar como está a estrutura dos branches e evita que os commits acabem sendo perdidos.
+
+P6 - Qual é o resultado de uma mesclagem de dois branches?
+Por que o representamos no diagram dessa forma?
+
+R: Fomar-se um único ramo, contendo todas as alterações
+realizadas nos branches unidos. No diagrama fica mais simples
+de visualizar todo o processo.
+
+P7 - Quais são os prós e contras da mesclagem automática do Git
+v. sempre fazer mesclagens manualmente?
+
+R: A mesclagem automática permite automatizar o trabalho,
+garantindo que todo o código seja mesclado com facilidade,
+porém, a recorrência de conflitos pode prejudicar o propósito.
