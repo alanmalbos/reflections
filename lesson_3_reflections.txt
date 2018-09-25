@@ -1,0 +1,3 @@
+P1 - Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+
+R: Sempre que você trabalhar em um projeto com mais de uma pessoa envolvida.
